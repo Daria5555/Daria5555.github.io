@@ -16,23 +16,23 @@ p {
 }
 
 #shadow1 {
-  color: #dfdfdf;
-  text-shadow: 0 0 2px #dfdfdf, 
-      -4px 5px 0 #b8b8b8, 
-      -7px 11px 0 #747474,
-      -12px 17px 0 #343434,
+  color: #ff0000;
+  text-shadow: 0 0 2px #ffffff, 
+      -4px 5px 0 #ffffff, 
+      -7px 11px 0 #ff0000,
+      -12px 17px 0 #000000,
       -17px 23px 0 #000;
 }
 
 #shadow2 {
-  color: #67875d;
-  text-shadow: 0 0 2px #67875d, 
-      -4px 5px 0 #5d7755, 
-      -7px 11px 0 #4d6047,
-      -12px 17px 0 #2e382b,
-      -17px 23px 0 #000;
+  color: #ff0000;
+
+    text-shadow: 0 2px 2px #ff0000, 
+      -2px 5px 0 #ffffff, 
+      -4px 10px 0 #fafafa,
+      -8px 15px 0 #ff0000,
+      -12px 20px 0 #ff0000,
+      -16px 25px 0 #000000,
+      -20px 30px 0 #000000;
 }
 
-
-
-Resources1× 0.5× 0.25×Rerun
